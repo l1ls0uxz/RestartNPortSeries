@@ -25,7 +25,7 @@ namespace NPort5150
     {
         TcpClient tcpSocket;
 
-        int TimeOutMs = 1000;
+        int TimeOutMs = 900;
 
         public TelnetConnection(string Hostname, int Port)
         {
