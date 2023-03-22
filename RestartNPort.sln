@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPort5150", "NPort5150\NPort5150.csproj", "{6E69A4A8-6EE7-4DCC-A30D-D04468290938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPort5150A", "NPort5150A\NPort5150A.csproj", "{795D18A6-7188-45F8-A8CB-A829AAD9167D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E69A4A8-6EE7-4DCC-A30D-D04468290938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E69A4A8-6EE7-4DCC-A30D-D04468290938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E69A4A8-6EE7-4DCC-A30D-D04468290938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E69A4A8-6EE7-4DCC-A30D-D04468290938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795D18A6-7188-45F8-A8CB-A829AAD9167D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795D18A6-7188-45F8-A8CB-A829AAD9167D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795D18A6-7188-45F8-A8CB-A829AAD9167D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795D18A6-7188-45F8-A8CB-A829AAD9167D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F22C339A-0B53-4062-BF57-A4EBD3A837DC}
+	EndGlobalSection
+EndGlobal
